@@ -1,4 +1,4 @@
-# MIDAS Heritage D HD96-24 Virtual Touring Console (OPENLIVE_REFACTORED)
+# MIDAes HD96-24 Virtual Touring Console
 
 Workstation mixing audio digital modular profesional berperforma tinggi berbasis **JUCE 8** dan standar **C++20**, mereplikasi arsitektur dan kapabilitas konsol panggung **MIDAS Heritage D HD96-24** dengan mesin DSP Graviton Mk 2 (144 Channel @ 96kHz).
 
